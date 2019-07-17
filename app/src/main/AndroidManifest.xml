@@ -9,6 +9,8 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".MostrarVentas">
+        </activity>
         <activity android:name=".RegistroVenta">
         </activity>
         <activity android:name=".EditarCliente">
